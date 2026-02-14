@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button, a, ul, ol, input, textarea {
+  all: revert;
+};
